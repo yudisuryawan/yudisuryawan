@@ -6,7 +6,7 @@ Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering E
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suryawnnn_/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,mysql,vscode&perline=4)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kagura087&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kagura087&theme=dracula&hide_border=false)<br/>
